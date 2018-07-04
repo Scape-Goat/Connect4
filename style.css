@@ -1,0 +1,56 @@
+td{
+    width: 80px;
+    height: 80px;
+    border-radius: 100px;
+    border: 5pt solid black;
+    background: white
+}
+table{
+    background: linear-gradient(to top right, blue,red);
+    border: 20pt double black
+}
+
+.player1{
+    background: linear-gradient(to top right ,darkred,red,pink);
+}
+
+.player2{
+    background: linear-gradient(to top right ,darkblue,blue,lightblue);
+
+}
+
+.btn{
+    border-radius: 0px;
+    text-align: center;
+}
+
+#end {
+    position: absolute; 
+    left: 165px; 
+    top: 215px; 
+    width: 500px; 
+    height: fit-content; 
+    font-size: 50px; 
+    background: linear-gradient(to top right, red,blue); 
+    color: violet;
+    text-align: center; 
+    opacity: .95;
+    border-radius: 50pt
+}
+
+.hidden {
+    display: none; 
+}
+
+
+#Game{
+    border: 5pt black solid;
+    width: fit-content;
+    background: linear-gradient(to right, red,blue);
+    }
+
+#turn{
+    text-align: center;
+    color: violet;
+    font-size: 30px; 
+}
