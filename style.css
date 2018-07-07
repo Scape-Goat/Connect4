@@ -22,19 +22,20 @@ table{
 .btn{
     border-radius: 0px;
     text-align: center;
+    
 }
 
 #end {
     position: absolute; 
-    left: 165px; 
+    left: 135px; 
     top: 215px; 
     width: 500px; 
     height: fit-content; 
     font-size: 50px; 
     background: linear-gradient(to top right, red,blue); 
-    color: violet;
+    color: pink;
     text-align: center; 
-    opacity: .95;
+    opacity: .825;
     border-radius: 50pt
 }
 
